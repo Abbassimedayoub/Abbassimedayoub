@@ -1,28 +1,3 @@
-# Hello, I'm Abbassi Mohamed Ayoub! 👋
-
-I'm a passionate coding student at Holberton School in Paris, and I'm here to share my coding journey and showcase some of my projects. Welcome to my GitHub profile!
-
-## About Me
-
-- 🌍 Based in Paris, France
-- 📅 Born on November 19, 1997
-- 💻 Coding enthusiast and lifelong learner
-- 🎓 Currently studying at [Holberton School](https://www.holbertonschool.com/)
-
-## My Interests
-
-I'm passionate about a wide range of technologies and topics, including:
-
-- 🚀 Software Development
-- 🌐 Web Development
-- 📊 Cyber security
-- 💡 Open Source Projects
-
-
-
-You can explore more of my work in my [GitHub repositories](https://github.com/abbassimedayoub).
-
-## Get in Touch
 
 I'm always open to collaborations and interesting discussions. Feel free to reach out:
 
@@ -35,15 +10,15 @@ I'm looking forward to connecting with fellow developers, learning from each oth
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbassimedayoub&label=Profile%20views&color=0e75b6&style=flat" alt="abbassimedayoub" /> </p>
 
 
-[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+HOLBIWAN;I+am+passionate+about+coding;)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+abbassimedayoub;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
-# Hi, I am Aypoub 👋
+# Hi, I am Ayoub 👋
 
 ## I am a Full Stack Web Developer Student 🚀
 
 - 🔭 **I’m currently working on:** Improving my coding skills through practical projects.
 - 🌱 **I learn by doing...** Embracing hands-on projects and challenges.
-- 📫 **How to reach me:** [![GitHub ABBASSI AYOUB](https://img.shields.io/badge/-HOLBIWAN-black?style=flat-square&logo=github)](https://github.com/abbassimedayoub)
+- 📫 **How to reach me:** [![GitHub ABBASSI AYOUB](https://img.shields.io/badge/-abbassimedayoub-black?style=flat-square&logo=github)](https://github.com/abbassimedayoub)
 
 *******************************************************************************************************************************************
 
@@ -72,7 +47,7 @@ I'm looking forward to connecting with fellow developers, learning from each oth
 ### My GitHub Stats 📊
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbassimedayoub&show_icons=true&theme=radical" alt="Holbiwan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abbassimedayoub&show_icons=true&theme=radical" alt="ayoub's GitHub Stats" />
 </p>
 
 <p align="center">
