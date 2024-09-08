@@ -4,7 +4,7 @@ I'm looking forward to connecting with fellow developers, learning from each oth
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbassimedayoub&label=Profile%20views&color=0e75b6&style=flat" alt="abbassimedayoub" /> </p>
 
 
-[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+Sabrina+aka+abbassimedayoub;I+am+passionate+about+coding;)](https://git.io/typing-svg)
+[![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+are+welcome+to+my+profile;My+name+is+abbassimedayoub;I+am+passionate+about+coding;)](https://git.io/typing-svg)
 
 # Hi, I am Ayoub 👋
 
